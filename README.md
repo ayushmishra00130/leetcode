@@ -59,4 +59,8 @@
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayushmishra00130/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/ayushmishra00130/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
