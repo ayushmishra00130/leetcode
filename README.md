@@ -12,6 +12,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushmishra00130/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ayushmishra00130/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ayushmishra00130/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0904-fruit-into-baskets](https://github.com/ayushmishra00130/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayushmishra00130/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayushmishra00130/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -57,10 +58,12 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushmishra00130/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0904-fruit-into-baskets](https://github.com/ayushmishra00130/leetcode/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayushmishra00130/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/ayushmishra00130/leetcode/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayushmishra00130/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
