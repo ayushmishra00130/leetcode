@@ -21,6 +21,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushmishra00130/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ayushmishra00130/leetcode/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushmishra00130/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ayushmishra00130/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ayushmishra00130/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushmishra00130/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushmishra00130/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushmishra00130/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayushmishra00130/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Backtracking
 |  |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushmishra00130/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushmishra00130/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
