@@ -5,6 +5,11 @@ public:
         int i = 0, j = 0;
         int n = nums.size();
         int count = 0;
+
+        if(k <= 1){
+            return 0;
+        }
+
         while(j < n){
             prod *= nums[j];
 
