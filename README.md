@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushmishra00130/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ayushmishra00130/leetcode/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/ayushmishra00130/leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/ayushmishra00130/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ayushmishra00130/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ayushmishra00130/leetcode/tree/master/0075-sort-colors) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushmishra00130/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/ayushmishra00130/leetcode/tree/master/0037-sudoku-solver) |
 | [0904-fruit-into-baskets](https://github.com/ayushmishra00130/leetcode/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayushmishra00130/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushmishra00130/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/ayushmishra00130/leetcode/tree/master/0037-sudoku-solver) |
 ## Linked List
 |  |
 | ------- |
@@ -107,4 +110,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushmishra00130/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ayushmishra00130/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
