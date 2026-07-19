@@ -10,7 +10,7 @@ public:
         }
         
         for(int i =0;i<n;i++){
-            rs = t - nums[i]- ls;
+            rs = t - nums[i] - ls;
 
             if(ls == rs){
                 return i;
