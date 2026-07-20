@@ -33,6 +33,7 @@
 | [0075-sort-colors](https://github.com/ayushmishra00130/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushmishra00130/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ayushmishra00130/leetcode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/ayushmishra00130/leetcode/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushmishra00130/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushmishra00130/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/ayushmishra00130/leetcode/tree/master/0344-reverse-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayushmishra00130/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Backtracking
 |  |
