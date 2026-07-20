@@ -4,10 +4,11 @@ public:
         int curr = nums[0];
         int ans = nums[0];
 
-        for(int i=1; i<nums.size();i++){
+        for(int i=1 ;i<nums.size();i++){
             curr = max(curr + nums[i] , nums[i]);
-            ans = max(curr , ans);
+            ans = max(ans , curr);
         }
+
         return ans;
     }
 };
