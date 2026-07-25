@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ayushmishra00130/leetcode/tree/master/0007-reverse-integer) |
+| [0319-bulb-switcher](https://github.com/ayushmishra00130/leetcode/tree/master/0319-bulb-switcher) |
 ## String
 |  |
 | ------- |
@@ -186,4 +187,8 @@
 | [0112-path-sum](https://github.com/ayushmishra00130/leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ayushmishra00130/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushmishra00130/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/ayushmishra00130/leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
