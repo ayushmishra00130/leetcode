@@ -161,19 +161,23 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushmishra00130/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ayushmishra00130/leetcode/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushmishra00130/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushmishra00130/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ayushmishra00130/leetcode/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushmishra00130/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushmishra00130/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ayushmishra00130/leetcode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushmishra00130/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ayushmishra00130/leetcode/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushmishra00130/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
