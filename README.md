@@ -105,6 +105,7 @@
 | [0007-reverse-integer](https://github.com/ayushmishra00130/leetcode/tree/master/0007-reverse-integer) |
 | [0319-bulb-switcher](https://github.com/ayushmishra00130/leetcode/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ayushmishra00130/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ayushmishra00130/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ayushmishra00130/leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 ## String
 |  |
@@ -202,4 +203,8 @@
 |  |
 | ------- |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ayushmishra00130/leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
+## Simulation
+|  |
+| ------- |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ayushmishra00130/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 <!---LeetCode Topics End-->
