@@ -27,6 +27,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/ayushmishra00130/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ayushmishra00130/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayushmishra00130/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/ayushmishra00130/leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayushmishra00130/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -86,6 +87,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ayushmishra00130/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/ayushmishra00130/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ayushmishra00130/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/ayushmishra00130/leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayushmishra00130/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -103,6 +105,7 @@
 | [0007-reverse-integer](https://github.com/ayushmishra00130/leetcode/tree/master/0007-reverse-integer) |
 | [0319-bulb-switcher](https://github.com/ayushmishra00130/leetcode/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ayushmishra00130/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/ayushmishra00130/leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -161,6 +164,7 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/ayushmishra00130/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/ayushmishra00130/leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
@@ -194,4 +198,8 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/ayushmishra00130/leetcode/tree/master/0319-bulb-switcher) |
+## Number Theory
+|  |
+| ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/ayushmishra00130/leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 <!---LeetCode Topics End-->
