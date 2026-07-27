@@ -114,6 +114,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushmishra00130/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/ayushmishra00130/leetcode/tree/master/0344-reverse-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayushmishra00130/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/ayushmishra00130/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Backtracking
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/ayushmishra00130/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ayushmishra00130/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushmishra00130/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/ayushmishra00130/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## String Matching
 |  |
 | ------- |
