@@ -13,6 +13,7 @@
 | [0152-maximum-product-subarray](https://github.com/ayushmishra00130/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/ayushmishra00130/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushmishra00130/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/ayushmishra00130/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushmishra00130/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ayushmishra00130/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ayushmishra00130/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ayushmishra00130/leetcode/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/ayushmishra00130/leetcode/tree/master/0200-number-of-islands) |
 ## Queue
 |  |
 | ------- |
@@ -189,6 +191,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushmishra00130/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ayushmishra00130/leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ayushmishra00130/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/ayushmishra00130/leetcode/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushmishra00130/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -196,6 +199,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ayushmishra00130/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushmishra00130/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ayushmishra00130/leetcode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/ayushmishra00130/leetcode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -221,4 +225,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ayushmishra00130/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ayushmishra00130/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
