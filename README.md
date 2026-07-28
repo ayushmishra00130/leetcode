@@ -21,6 +21,7 @@
 | [0485-max-consecutive-ones](https://github.com/ayushmishra00130/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushmishra00130/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/ayushmishra00130/leetcode/tree/master/0611-valid-triangle-number) |
+| [0695-max-area-of-island](https://github.com/ayushmishra00130/leetcode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushmishra00130/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ayushmishra00130/leetcode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/ayushmishra00130/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -156,6 +157,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/ayushmishra00130/leetcode/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/ayushmishra00130/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ayushmishra00130/leetcode/tree/master/0695-max-area-of-island) |
 ## Queue
 |  |
 | ------- |
@@ -193,6 +195,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/ayushmishra00130/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/ayushmishra00130/leetcode/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushmishra00130/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/ayushmishra00130/leetcode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -200,6 +203,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushmishra00130/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ayushmishra00130/leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/ayushmishra00130/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ayushmishra00130/leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -229,4 +233,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ayushmishra00130/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ayushmishra00130/leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
