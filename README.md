@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/ayushmishra00130/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ayushmishra00130/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ayushmishra00130/leetcode/tree/master/0075-sort-colors) |
+| [0149-max-points-on-a-line](https://github.com/ayushmishra00130/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/ayushmishra00130/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/ayushmishra00130/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushmishra00130/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -95,6 +96,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushmishra00130/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/ayushmishra00130/leetcode/tree/master/0037-sudoku-solver) |
+| [0149-max-points-on-a-line](https://github.com/ayushmishra00130/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/ayushmishra00130/leetcode/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushmishra00130/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/ayushmishra00130/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ayushmishra00130/leetcode/tree/master/0007-reverse-integer) |
+| [0149-max-points-on-a-line](https://github.com/ayushmishra00130/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/ayushmishra00130/leetcode/tree/master/0202-happy-number) |
 | [0319-bulb-switcher](https://github.com/ayushmishra00130/leetcode/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ayushmishra00130/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -243,4 +246,8 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/ayushmishra00130/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ayushmishra00130/leetcode/tree/master/0695-max-area-of-island) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/ayushmishra00130/leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
