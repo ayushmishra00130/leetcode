@@ -41,6 +41,7 @@
 | [0042-trapping-rain-water](https://github.com/ayushmishra00130/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ayushmishra00130/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushmishra00130/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/ayushmishra00130/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ayushmishra00130/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ayushmishra00130/leetcode/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/ayushmishra00130/leetcode/tree/master/0611-valid-triangle-number) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushmishra00130/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/ayushmishra00130/leetcode/tree/master/0037-sudoku-solver) |
+| [0202-happy-number](https://github.com/ayushmishra00130/leetcode/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushmishra00130/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/ayushmishra00130/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ayushmishra00130/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ayushmishra00130/leetcode/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/ayushmishra00130/leetcode/tree/master/0202-happy-number) |
 | [0319-bulb-switcher](https://github.com/ayushmishra00130/leetcode/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ayushmishra00130/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ayushmishra00130/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
