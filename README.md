@@ -121,6 +121,7 @@
 | [0202-happy-number](https://github.com/ayushmishra00130/leetcode/tree/master/0202-happy-number) |
 | [0319-bulb-switcher](https://github.com/ayushmishra00130/leetcode/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ayushmishra00130/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/ayushmishra00130/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1922-count-good-numbers](https://github.com/ayushmishra00130/leetcode/tree/master/1922-count-good-numbers) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ayushmishra00130/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ayushmishra00130/leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -234,6 +235,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/ayushmishra00130/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ayushmishra00130/leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 ## Simulation
 |  |
