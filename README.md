@@ -34,6 +34,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ayushmishra00130/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayushmishra00130/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ayushmishra00130/leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ayushmishra00130/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayushmishra00130/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -125,6 +126,7 @@
 | [1922-count-good-numbers](https://github.com/ayushmishra00130/leetcode/tree/master/1922-count-good-numbers) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ayushmishra00130/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ayushmishra00130/leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ayushmishra00130/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 ## String
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/ayushmishra00130/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ayushmishra00130/leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ayushmishra00130/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 ## Simulation
 |  |
 | ------- |
