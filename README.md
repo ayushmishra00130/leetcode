@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/ayushmishra00130/leetcode/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/ayushmishra00130/leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/ayushmishra00130/leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/ayushmishra00130/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ayushmishra00130/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ayushmishra00130/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ayushmishra00130/leetcode/tree/master/0075-sort-colors) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ayushmishra00130/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/ayushmishra00130/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ayushmishra00130/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ayushmishra00130/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/ayushmishra00130/leetcode/tree/master/0217-contains-duplicate) |
@@ -100,6 +102,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushmishra00130/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/ayushmishra00130/leetcode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/ayushmishra00130/leetcode/tree/master/0049-group-anagrams) |
 | [0149-max-points-on-a-line](https://github.com/ayushmishra00130/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/ayushmishra00130/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ayushmishra00130/leetcode/tree/master/0217-contains-duplicate) |
@@ -137,6 +140,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushmishra00130/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushmishra00130/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/ayushmishra00130/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ayushmishra00130/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ayushmishra00130/leetcode/tree/master/0344-reverse-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayushmishra00130/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
