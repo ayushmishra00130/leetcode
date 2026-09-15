@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/ayushmishra00130/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ayushmishra00130/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ayushmishra00130/leetcode/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/ayushmishra00130/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/ayushmishra00130/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/ayushmishra00130/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/ayushmishra00130/leetcode/tree/master/0162-find-peak-element) |
@@ -107,6 +108,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushmishra00130/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/ayushmishra00130/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ayushmishra00130/leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/ayushmishra00130/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/ayushmishra00130/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/ayushmishra00130/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ayushmishra00130/leetcode/tree/master/0217-contains-duplicate) |
@@ -269,6 +271,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ayushmishra00130/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ayushmishra00130/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ayushmishra00130/leetcode/tree/master/0695-max-area-of-island) |
 ## Geometry
