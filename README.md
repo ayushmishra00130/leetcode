@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/ayushmishra00130/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ayushmishra00130/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ayushmishra00130/leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushmishra00130/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ayushmishra00130/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/ayushmishra00130/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/ayushmishra00130/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayushmishra00130/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ayushmishra00130/leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushmishra00130/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ayushmishra00130/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ayushmishra00130/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ayushmishra00130/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
