@@ -82,6 +82,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayushmishra00130/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ayushmishra00130/leetcode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushmishra00130/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/ayushmishra00130/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushmishra00130/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ayushmishra00130/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ayushmishra00130/leetcode/tree/master/0125-valid-palindrome) |
@@ -288,4 +290,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ayushmishra00130/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ayushmishra00130/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
